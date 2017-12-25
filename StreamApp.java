@@ -18,6 +18,7 @@ public class StreamApp {
 		strList.stream().forEach(System.out::println);
 		// or
 		strList.stream().forEach((p) -> System.out.println(p));
+		// типа коммит
 	}
 
 }
